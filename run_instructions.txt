@@ -1,0 +1,93 @@
+===============================
+PORTFOLIO PROJECT – RUN GUIDE
+===============================
+
+Project Name:
+Personal Portfolio – Data Scientist & AI Engineer
+
+Tech Stack:
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- Node.js (npm)
+
+--------------------------------
+PREREQUISITES
+--------------------------------
+Ensure the following are installed on your system:
+
+1. Node.js (v18 or later recommended)
+   Download: https://nodejs.org
+
+2. npm (comes with Node.js)
+
+--------------------------------
+SETUP & RUN INSTRUCTIONS
+--------------------------------
+
+1. Clone the repository
+   ---------------------
+   git clone https://github.com/Chandru-debug1/chandru-portfolio.git
+
+2. Navigate to the project directory
+   ---------------------------------
+   cd beautiful-react-tailwind-portfolio
+
+3. Install dependencies
+   ---------------------
+   npm install
+
+4. Start the development server
+   -----------------------------
+   npm run dev
+
+5. Open the project in your browser
+   --------------------------------
+   http://localhost:5173
+
+--------------------------------
+PROJECT STRUCTURE (OVERVIEW)
+--------------------------------
+- src/        → React components and pages
+- public/     → Static assets (resume, images)
+- App.jsx     → Main application entry
+- Home.jsx    → Single-page portfolio layout
+
+--------------------------------
+RESUME DOWNLOAD
+--------------------------------
+The resume file is located in:
+public/Chan_Data_Scientist_Resume.pdf
+
+It can be downloaded directly from the website using
+the "Download CV" button.
+
+--------------------------------
+BUILD FOR PRODUCTION
+--------------------------------
+To create a production build:
+
+npm run build
+
+The optimized build will be generated in the:
+dist/ folder
+
+--------------------------------
+DEPLOYMENT
+--------------------------------
+This project can be deployed on:
+- Netlify
+- GitHub Pages
+- Vercel
+
+--------------------------------
+CONTACT
+--------------------------------
+Name: Chandru
+Role: Data Scientist / Data Analyst
+GitHub: https://github.com/<your-github-username>
+
+===============================
+END OF INSTRUCTIONS
+===============================

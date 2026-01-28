@@ -6,30 +6,35 @@ const projects = [
     title: "AI-Powered News Aggregator",
     description:
       "Built an AI-powered multilingual news aggregation platform with NLP-based summarization, sentiment analysis, and text-to-speech for accessibility.",
-    image: "/projects/project1.png",
+    image: "/projects/project1.jpeg",
     tags: ["Python", "NLP", "LangChain", "Transformers", "gTTS"],
     demoUrl: "#",
-    githubUrl: "https://github.com/Chandru-debug1/Ai-news-aggregator",
+    githubUrl: "https://github.com/Chandru-debug1/Ai-news-aggregator.git",
   },
   {
     id: 2,
     title: "House Price Prediction Model",
     description:
       "Developed a machine learning regression model using the Ames Housing dataset with data cleaning, feature engineering, and model evaluation.",
-    image: "/projects/project2.png",
+    image: "/projects/project2.jpg",
     tags: ["Python", "Pandas", "Scikit-learn", "Random Forest"],
     demoUrl: "#",
-    githubUrl: "https://github.com/Chandru-debug1/House-Price-Prediction-using-Machine-Learning",
+    githubUrl: "https://github.com/Chandru-debug1/House-Price-Prediction-using-Machine-Learning.git",
   },
   {
     id: 3,
-    title: "Real-Time Recommendation System",
+    title: "Fraud Detection System",
     description:
-      "Designed a real-time recommendation engine using collaborative filtering and NLP-based content modeling with FAISS for fast similarity search.",
+      "Built an end-to-end fraud detection system using machine learning algorithms, data visualization, and a user-friendly Streamlit interface.",
     image: "/projects/project3.png",
-    tags: ["Python", "NLP", "FAISS", "Machine Learning"],
+    tags: ["Python",
+    "Machine Learning",
+    "Fraud Detection",
+    "Scikit-learn",
+    "Streamlit",
+    "Power BI"],
     demoUrl: "#",
-    githubUrl: "https://github.com/Chandru-debug1",
+    githubUrl: "https://github.com/Chandru-debug1https://github.com/Chandru-debug1/fraud-detection-analytics.git",
   },
 ];
 
