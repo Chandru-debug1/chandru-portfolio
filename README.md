@@ -81,7 +81,7 @@ I am passionate about building real-world AI and data-driven solutions. I focus 
 
 ## 📬 Connect With Me
 
-* LinkedIn: [(Add your link)](https://www.linkedin.com/in/chandru-datascientist/)
+* LinkedIn: https://www.linkedin.com/in/chandru-datascientist/
 * GitHub: https://github.com/Chandru_debug
 
 ---
